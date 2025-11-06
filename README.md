@@ -31,11 +31,11 @@ To run this project, you'll need to:
 
 # Login Screen 
 
-![Home Screen](screenshots/homepage.png)
+![Login Screen](screenshots/homepage.png)
 
 
 # Register Screen
-![Home Screen](screenshots/registerpage.png)
+![Register Screen](screenshots/registerpage.png)
 
 
 # Home Screen
@@ -45,6 +45,6 @@ To run this project, you'll need to:
 
 # Settings
 
-![Home Screen](screenshots/settings.png)
+![Settings](screenshots/settings.png)
 
 
