@@ -31,20 +31,20 @@ To run this project, you'll need to:
 
 # Login Screen 
 
-![Login Screen](https://raw.githubusercontent.com/Lone-wolf64/brew_crew_flutter/main/screenshots/loginpage.png)
+![Home Screen](screenshots/homepage.png)
 
 
 # Register Screen
-
-![Register Screen](https://raw.githubusercontent.com/Lone-wolf64/brew_crew_flutter/main/screenshots/registerpage.png)
+![Home Screen](screenshots/registerpage.png)
 
 
 # Home Screen
 
-![Home Scree](https://raw.githubusercontent.com/Lone-wolf64/brew_crew_flutter/main/screenshots/home_screen.png)
+![Home Screen](screenshots/homepage.png)
 
 
 # Settings
 
-![Settings](https://raw.githubusercontent.com/Lone-wolf64/brew_crew_flutter/main/screenshots/settings.png)
+![Home Screen](screenshots/settings.png)
+
 
