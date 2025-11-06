@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406625922799",
+    "project_id": "lone-brew-crew",
+    "storage_bucket": "lone-brew-crew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406625922799:android:1f6a1d4031b1e35113351a",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQs8lDAxLSk79j7pBwlzqUlkhja3f33Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
