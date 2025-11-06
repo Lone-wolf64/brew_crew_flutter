@@ -31,16 +31,19 @@ To run this project, you'll need to:
 
 # Login Screen 
 
-![Login Screen](assets/screenshots/loginpage.png)
+<img src="screenshots/loginpage.png" alt="Login Screen" width="400"/>
+
 
 # Register Screen
 
-![Register Screen](assets/screenshots/registerpage.png)
+<img src="screenshots/registerpage.png" alt="Register Page" width="400"/>
+
 
 # Home Screen
 
-![Home Screen](assets/screenshots/homepage.png)
+<img src="screenshots/homepage.png" alt="Home Screen" width="400"/>
+
 
 # Settings
 
-![Settings](assets/screenshots/settings.png)
+<img src="screenshots/settings.png" alt="Settings Screen" width="400"/>
