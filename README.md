@@ -35,16 +35,17 @@ To run this project, you'll need to:
 
 
 # Register Screen
-![Register Screen](screenshots/registerpage.png)
+<img src="assets/screenshots/registerpage.png" width="400"/>
 
 
 # Home Screen
 
-![Home Screen](screenshots/homepage.png)
+<img src="assets/screenshots/homepage.png" width="400"/>
 
 
 # Settings
 
-![Settings](screenshots/settings.png)
+<img src="assets/screenshots/settings.png" width="400"/>
+
 
 
