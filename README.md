@@ -31,7 +31,7 @@ To run this project, you'll need to:
 
 # Login Screen 
 
-![Login Screen](screenshots/homepage.png)
+![Login Screen](assets/screenshots/homepage.png)
 
 
 # Register Screen
