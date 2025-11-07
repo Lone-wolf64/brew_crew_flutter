@@ -31,7 +31,7 @@ To run this project, you'll need to:
 
 # Login Screen 
 
-![Login Screen](assets/screenshots/homepage.png)
+<img src="assets/screenshots/loginpage.png" width="400"/>
 
 
 # Register Screen
